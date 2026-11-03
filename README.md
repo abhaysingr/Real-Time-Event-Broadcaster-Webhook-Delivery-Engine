@@ -80,6 +80,21 @@ This project demonstrates asynchronous Python, event-driven backend design, back
 | pytest | Automated tests |
 | Docker Compose | Local Redis service |
 
+
+
+## Live Event Flow
+
+Watch how an event moves through the system, including duplicate detection.
+
+<p align="center">
+  <img
+    src="assets/webhook-duplicate-flow.gif"
+    alt="Event flow through FastAPI, duplicate detection, Redis, and webhook delivery"
+    width="850"
+  />
+</p>
+
+
 ---
 
 ## System Architecture
