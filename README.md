@@ -227,7 +227,7 @@ realtime-webhook-engine/
 ### 1. Clone the Repository
 
 ```powershell
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/abhaysingr/Real-Time-Event-Broadcaster-Webhook-Delivery-Engine.git
 cd realtime-webhook-engine
 ```
 
